@@ -1,9 +1,9 @@
-#Flight Ticket Price Prediction
+# Flight Ticket Price Prediction
 
-###Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable.
-###And it is a Simple project to predict the price of the flight ticket based on the city
+### Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable.
+### And it is a Simple project to predict the price of the flight ticket based on the city
 
-##Data Overview
+## Data Overview
 Here each data point corresponds to trip of flight from one city to another.
 
 - Airline: The name of the airline.
@@ -28,7 +28,7 @@ Here each data point corresponds to trip of flight from one city to another.
 
 - Price(target): The price of the ticket
 
-##Table of Content
+## Table of Content
 
 * __Step 1: Importing the Relevant Libraries__
     
@@ -41,8 +41,8 @@ Here each data point corresponds to trip of flight from one city to another.
 * __Step 5: Building Model__
 
 
-##Performace Metric
+## Performace Metric
 - Since it is an regression problem we will use Root Mean Squared error (RMSE) and R-squared as regression metric.
 
-##Final Output : The RMSE is 0.244 and R-SQUARED is 0.77% 
+## Final Output : The RMSE is 0.244 and R-SQUARED is 0.77% 
 
