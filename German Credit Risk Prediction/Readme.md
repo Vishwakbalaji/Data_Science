@@ -20,3 +20,9 @@
 
 ### Performace Metric
 - Since it is an classification problem we will use f1 score metrics
+
+### Final Output: The F1 Score gives 83% for Good Risk compare to Bad Risk
+
+### The Dataset has been provided in the repository!!!
+
+### Enjoy!!
