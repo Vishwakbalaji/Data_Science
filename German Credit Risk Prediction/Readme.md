@@ -18,10 +18,26 @@
     
 * __Step 5: Building Model__
 
+### Model Applied:
+
+* __Logistic Regression__
+
+* __Ridge Classifier__
+
+* __SVC__
+
+* __K Neighbors Classifier__
+
+* __Decision Tree Classifier__
+
+* __Random Forest Classifier__
+
+* __XGB Classifier__
+
 ### Performace Metric
 - Since it is an classification problem we will use f1 score metrics
 
-### Final Output: The F1 Score gives 83% for Good Risk compare to Bad Risk
+### Final Output: All the model that we used in this prediction gave the same output . The F1 Score is 83% for Good Risk compare to Bad Risk
 
 ### The Dataset has been provided in the repository!!!
 
