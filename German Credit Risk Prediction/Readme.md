@@ -22,22 +22,14 @@
 
 * __Logistic Regression__
 
-* __Ridge Classifier__
-
-* __SVC__
-
-* __K Neighbors Classifier__
-
 * __Decision Tree Classifier__
 
 * __Random Forest Classifier__
 
-* __XGB Classifier__
-
 ### Performace Metric
 - Since it is an classification problem we will use f1 score metrics
 
-### Final Output: All the model that we used in this prediction gave the same output . The F1 Score is 83% for Good Risk compare to Bad Risk
+### Final Output: Logistic Regresion model gave the better output . The F1 Score is 82%.
 
 ### The Dataset has been provided in the repository!!!
 
