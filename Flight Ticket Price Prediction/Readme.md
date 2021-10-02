@@ -48,18 +48,14 @@ Here each data point corresponds to trip of flight from one city to another.
 
 * __Lasso Regression__
 
-* __K Neighbors Regressor__
-
 * __Decision Tree Regressor__
 
 * __Random Forest Regressor__
 
-* __XGB Regressor__
-
 ## Performace Metric
-- Since it is an regression problem we will use Root Mean Squared error (RMSE) and R-squared as regression metric.
+- Since it is an regression problem we will use Root Mean Squared error (RMSE) and Adj.R-squared as regression metric.
 
-## Final Output : XGB Regressor gave the ouput of RMSE: 0.133 and R-SQUARED: 0.93. This gives the highest value of all the other Regressor Model. 
+## Final Output : Random Forest Regressor gave the ouput of RMSE: 0.148 and Adj.R-SQUARED: 0.91. This gives the highest value of all the other Regressor Model. 
 
 ### The Dataset has been provided in the repository!!!
 
