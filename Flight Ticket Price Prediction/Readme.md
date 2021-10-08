@@ -50,12 +50,11 @@ Here each data point corresponds to trip of flight from one city to another.
 
 * __Decision Tree Regressor__
 
-* __Random Forest Regressor__
 
 ## Performace Metric
 - Since it is an regression problem we will use Root Mean Squared error (RMSE) and Adj.R-squared as regression metric.
 
-## Final Output : Random Forest Regressor gave the ouput of RMSE: 0.148 and Adj.R-SQUARED: 0.91. This gives the highest value of all the other Regressor Model. 
+## Final Output : Decision Tree regressor gave RMSE: 0.176 and Adj.R-SQUARED: 0.88. This gives the highest value of all the other Regressor Model. 
 
 ### The Dataset has been provided in the repository!!!
 
