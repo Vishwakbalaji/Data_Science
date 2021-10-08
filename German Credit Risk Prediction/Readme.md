@@ -24,7 +24,6 @@
 
 * __Decision Tree Classifier__
 
-* __Random Forest Classifier__
 
 ### Performace Metric
 - Since it is an classification problem we will use f1 score metrics
